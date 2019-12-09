@@ -5,4 +5,6 @@ Abstractive Text Summarization Approach
 Alex H., Valentin D.
 
 ## Resources
-Data Source and NLP Tools Utilized:
+Data Source: <b>Webis-TLDR-17</b> (https://webis.de/data/webis-tldr-17.html)
+
+NLP Tools Utilized:
