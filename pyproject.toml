@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "text-samuray-session"
+name = "text-samurai-session"
 version = "0.1.0"
 description = ""
 authors = ["Alex H., Valentin D."]
